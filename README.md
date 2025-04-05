@@ -2,6 +2,8 @@
 
 **TrashLink** is a modern, sensor-driven smart trash bin designed to simulate how intelligent waste sorting and monitoring can be seamlessly integrated into real-world sanitation infrastructure.
 
+https://la-dev05-trashlink-smart-waste-bin-ufdkur.streamlit.app
+
 ## 🧠 How It Works
 
 TrashLink uses an intelligent combination of hardware sensors and locally deployed custom-trained large language models (LLMs) to autonomously categorize and sort trash. It brings automation, efficiency, and hygiene into waste management.
