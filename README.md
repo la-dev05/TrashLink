@@ -1,4 +1,4 @@
-# TrashLink 🗑️⚙️
+# TrashLink 🗑️⚙
 
 **TrashLink** is a modern, sensor-driven smart trash bin designed to simulate how intelligent waste sorting and monitoring can be seamlessly integrated into real-world sanitation infrastructure.
 
